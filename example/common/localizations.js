@@ -40,8 +40,8 @@ const pl = flt`
 
   favorite-fruit = Ulubiony owoc
   fruit-apple = Jabłko
-  fruit-orange = Pomarańczowy
-  fruit-lemon = Cytrynowy
+  fruit-orange = Pomarańcza
+  fruit-lemon = Cytryna
   `;
 
 const cs = flt`
